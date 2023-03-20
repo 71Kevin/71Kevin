@@ -1,5 +1,3 @@
-# KEVIN OLIVEIRA MANHAS
-
 Hello there! My name is **<span>Kevin</span>**, but you may also know me by my alias, **Tinesh**. As a passionate **developer**, I am constantly seeking out new and **creative** solutions to problems. To me, programming is not just a job, it's a fun and exciting way to express my **creativity** and continually expand my **knowledge**.
 
 If you have any questions or just want to chat about development, feel free to contact me or explore my profile. Thank you for stopping by!
