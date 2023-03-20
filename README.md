@@ -7,8 +7,8 @@ If you have any questions or just want to chat about development, feel free to c
 
 ---
 
-[![Kevin Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=71Kevin&show_icons=true&theme=tokyonight&hide_border=true&text_color=FFFFFF)](https://github.com/71Kevin)
+[![Kevin Oliveira Manhas's github stats](https://github-readme-stats.vercel.app/api?username=71Kevin&show_icons=true&theme=tokyonight&hide_border=true&text_color=FFFFFF)](https://github.com/71Kevin)
 
 ---
 
-[![Follow](https://img.shields.io/github/followers/KevinProf?style=social)](https://github.com/71Kevin)
+[![Follow](https://img.shields.io/github/followers/71Kevin?style=social)](https://github.com/71Kevin)
