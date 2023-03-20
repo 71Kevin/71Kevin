@@ -1,6 +1,12 @@
-Hello there! My name is **<span>Kevin</span>**, but you may also know me by my alias, **Tinesh**. As a passionate **developer**, I am constantly seeking out new and **creative** solutions to problems. To me, programming is not just a job, it's a fun and exciting way to express my **creativity** and continually expand my **knowledge**.
+Hello, I'm Kevin, also known as Tinesh. I'm a passionate and enthusiastic developer with experience working with a variety of technologies, including NodeJS, TypeScript, PHP, Java, Angular, React, Python, Lua, MySQL, MongoDB, Redis, Docker, Linux, and Git.
 
-If you have any questions or just want to chat about development, feel free to contact me or explore my profile. Thank you for stopping by!
+I started my journey in programming by exploring the endless possibilities of technology and discovering how it can be used to solve complex problems. As I learned more, I found myself constantly seeking out new and innovative solutions to challenges that others might consider impossible. To me, programming is not just a job, but a way of life that allows me to express my creativity and continually expand my knowledge.
+
+I have worked on various projects throughout my career, ranging from small personal projects to large-scale enterprise applications. My experience has taught me how to approach complex problems and develop efficient, scalable solutions that meet the needs of the user.
+
+When I'm not working, I enjoy learning about new technologies and experimenting with different programming languages. I believe that learning is a never-ending process, and I'm always looking for new ways to expand my knowledge and skills.
+
+If you're interested in chatting about development or have any questions, feel free to reach out to me. I'm always open to new opportunities and challenges, and I look forward to hearing from you. Thank you for taking the time to learn more about me!
 
    <p align="left">
       <a href="https://github.com/71Kevin?tab=followers">
