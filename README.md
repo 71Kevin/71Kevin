@@ -11,7 +11,7 @@ If you're interested in chatting about development or have any questions, feel f
    <p align="left">
       <a href="https://github.com/71Kevin?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/71Kevin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/71Kevin?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/71Kevin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
