@@ -1,4 +1,4 @@
-Hello, I'm Kevin, also known as Tinesh. I'm a passionate and enthusiastic developer with experience working with a variety of technologies, including NodeJS, TypeScript, PHP, Java, Angular, React, Python, Lua, MySQL, MongoDB, Redis, Docker, Linux, and Git.
+Hello, I'm Kevin, also known as Tinesh. I'm a passionate and enthusiastic developer with experience working with a variety of technologies, including NodeJS, TypeScript, PHP, Java, MySQL, MongoDB, Redis, Docker, Linux, and AWS.
 
 I started my journey in programming by exploring the endless possibilities of technology and discovering how it can be used to solve complex problems. As I learned more, I found myself constantly seeking out new and innovative solutions to challenges that others might consider impossible. To me, programming is not just a job, but a way of life that allows me to express my creativity and continually expand my knowledge.
 
