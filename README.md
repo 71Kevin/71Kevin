@@ -1,8 +1,6 @@
-Hello, I'm Kevin, also known as Tinesh. I'm a passionate and enthusiastic developer with experience working with a variety of technologies, including NodeJS, TypeScript, PHP, Java, MySQL, MongoDB, Redis, Docker, Linux, and AWS.
+I'm Kevin, also known as Tinesh. I'm a passionate and enthusiastic developer with experience working with a variety of technologies, including NodeJS, TypeScript, PHP, Java, MySQL, MongoDB, Redis, Docker, Linux, and AWS.
 
 I have worked on various projects throughout my career, ranging from small personal projects to large-scale enterprise applications. My experience has taught me how to approach complex problems and develop efficient, scalable solutions that meet the needs of the user.
-
-If you're interested in chatting about development or have any questions, feel free to reach out to me. I'm always open to new opportunities and challenges, and I look forward to hearing from you. Thank you for taking the time to learn more about me!
 
    <p align="left">
       <a href="https://github.com/71Kevin?tab=followers">
