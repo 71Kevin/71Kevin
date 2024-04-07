@@ -1,25 +1,23 @@
-# KEVIN OLIVEIRA MANHAS
+Hey there! I'm **Kevin** but you can call me **Tinesh**. As a **developer**, I thrive on tackling challenges and crafting creative solutions. I'm constantly on the lookout for new technologies to explore and learn.
+
+Feel free to check out my profile and projects. Thanks for dropping by!
+
+---
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)](https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)
-
-Greetings! My name is **Kevin** and my alias is **Tinesh**. I am a **developer**, passionate about **solving problems** and **creating** innovative solutions, always eager to **learn** new things and explore new technologies.
-
-Feel free to browse through my profile and projects. Thank you for stopping by!
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/71Kevin)](https://github.com/71Kevin)
 
 ---
 
-[![Kevin Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=71Kevin&show_icons=true&theme=tokyonight&hide_border=true&text_color=FFFFFF)](https://github.com/71Kevin)
+Here's a sneak peek at some of the project prefixes I use and what they do:
 
----
-
-Some project prefixes I use and their descriptions:
-
-- `start`: Starts the application.
-- `commit`: Uses commitizen for committing changes.
-- `format:check`: Checks the formatting of JavaScript and TypeScript files using Prettier.
-- `format:write`: Formats JavaScript and TypeScript files using Prettier.
-- `lint:check`: Checks for linting issues in JavaScript and TypeScript files using ESLint.
-- `lint:fix`: Fixes linting issues in JavaScript and TypeScript files using ESLint.
-- `test`: Runs Jest for testing JavaScript and TypeScript files.
-- `dev`: Runs Nodemon for development of JavaScript and TypeScript projects.
+- `start`: Fires up the application.
+- `commit`: Leverages commitizen for better commits.
+- `format:check`: Ensures JavaScript and TypeScript files are nicely formatted with Prettier.
+- `format:write`: Beautifies JavaScript and TypeScript files with Prettier.
+- `lint:check`: Scans JavaScript and TypeScript files for linting issues using ESLint.
+- `lint:fix`: Squashes linting bugs in JavaScript and TypeScript files with ESLint.
+- `test`: Runs Jest to ensure JavaScript and TypeScript files are working as expected.
+- `dev`: Fires up Nodemon for smooth development of JavaScript and TypeScript projects.
 
 --- 
