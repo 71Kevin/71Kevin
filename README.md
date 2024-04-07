@@ -1,4 +1,4 @@
-# KEVIN MANHAS
+# Kevin Oliveira
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)](https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)
 
 Greetings! My name is **Kevin** and my alias is **Tinesh**. I am a **developer**, passionate about **solving problems** and **creating** innovative solutions, always eager to **learn** new things and explore new technologies.
