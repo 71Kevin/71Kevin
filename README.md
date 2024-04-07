@@ -1,33 +1,26 @@
-I'm Kevin, also known as Tinesh. I'm a passionate and enthusiastic developer with experience working with a variety of technologies, including NodeJS, TypeScript, PHP, Java, MySQL, MongoDB, Redis, Docker, Linux, and AWS.
+# KEVIN OLIVEIRA
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)](https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/71Kevin)](https://github.com/71Kevin)
 
-I have worked on various projects throughout my career, ranging from small personal projects to large-scale enterprise applications. My experience has taught me how to approach complex problems and develop efficient, scalable solutions that meet the needs of the user.
+Greetings! My name is **Kevin** and my alias is **Tinesh**. I am a **developer**, passionate about **solving problems** and **creating** innovative solutions, always eager to **learn** new things and explore new technologies.
 
-   <p align="left">
-      <a href="https://github.com/71Kevin?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/71Kevin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/71Kevin?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/71Kevin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+Feel free to browse through my profile and projects. Thank you for stopping by!
 
 ---
 
-### 🧰 Languages and Tools
+[![Kevin Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=71Kevin&show_icons=true&theme=tokyonight&hide_border=true&text_color=FFFFFF)](https://github.com/71Kevin)
 
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+---
 
-#
+Some project prefixes I use and their descriptions:
 
-### 📊 Stats
+- `start`: Starts the application.
+- `commit`: Uses commitizen for committing changes.
+- `format:check`: Checks the formatting of JavaScript and TypeScript files using Prettier.
+- `format:write`: Formats JavaScript and TypeScript files using Prettier.
+- `lint:check`: Checks for linting issues in JavaScript and TypeScript files using ESLint.
+- `lint:fix`: Fixes linting issues in JavaScript and TypeScript files using ESLint.
+- `test`: Runs Jest for testing JavaScript and TypeScript files.
+- `dev`: Runs Nodemon for development of JavaScript and TypeScript projects.
 
-![71Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=71Kevin&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=71Kevin&theme=gruvbox&border_radius=4.5) -->
+--- 
