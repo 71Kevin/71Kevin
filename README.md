@@ -1,6 +1,5 @@
-# KEVIN OLIVEIRA
+# Kevin Manhas
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)](https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/71Kevin)](https://github.com/71Kevin)
 
 Greetings! My name is **Kevin** and my alias is **Tinesh**. I am a **developer**, passionate about **solving problems** and **creating** innovative solutions, always eager to **learn** new things and explore new technologies.
 
