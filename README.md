@@ -1,10 +1,12 @@
-Hey there! I'm **Kevin** but you can call me **Tinesh**. As a **developer**, I thrive on tackling challenges and crafting creative solutions. I'm constantly on the lookout for new technologies to explore and learn.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)](https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)
+
+Hey there! I'm **Kevin**, but you can call me **Tinesh**. As a passionate **developer**, I thrive on tackling challenges and crafting creative solutions. I'm constantly on the lookout for new technologies to explore and learn.
 
 Feel free to check out my profile and projects. Thanks for dropping by!
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)](https://www.linkedin.com/in/kevin-oliveira-manhas-a701a4173/)
+[![Kevin Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=71Kevin&show_icons=true&theme=dracula&hide_border=true&text_color=FFFFFF)](https://github.com/71Kevin)
 
 ---
 
