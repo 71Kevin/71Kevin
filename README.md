@@ -29,7 +29,7 @@ I'm a full-stack developer primarily working with JavaScript and PHP. My focus l
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-%23FF9900.svg?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![SQS](https://img.shields.io/badge/Amazon%20SQS-%23FF9900.svg?style=for-the-badge&logo=amazonsqs&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
@@ -40,7 +40,7 @@ I'm a full-stack developer primarily working with JavaScript and PHP. My focus l
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-%23000000.svg?style=for-the-badge&logo=ajax&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-%23000000.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### DevOps
@@ -52,11 +52,11 @@ I'm a full-stack developer primarily working with JavaScript and PHP. My focus l
 ### Testing
 
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-%23885700.svg?style=for-the-badge&logo=phpunit&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-%23494697.svg?style=for-the-badge&logo=phpunit&logoColor=white)
 
 ### API
 
-![REST API](https://img.shields.io/badge/REST%20API-%2300BFFF.svg?style=for-the-badge&logo=rest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL API](https://img.shields.io/badge/GraphQL%20API-%23E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![SOAP API](https://img.shields.io/badge/SOAP%20API-%23000000.svg?style=for-the-badge&logo=soap&logoColor=white)
 
